@@ -8,4 +8,4 @@
 FastAPI → Backend for handling uploads & transcriptions
 Hugging Face Whisper → For speech-to-text
 reportlab → To generate PDF files
-Frontend (if needed) → Can be HTML/JavaScript
+Frontend (if needed) → Can be HTML/JavaScript, React Prefferably
